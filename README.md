@@ -3,7 +3,7 @@ Wordle in the terminal... *but in Rust*... yay?
 
 ## Building
 I built a script for it...
-`$ sudo ./install.sh`
+`$ ./install.sh`
 
 It checks dependencies. It works fine.
 
